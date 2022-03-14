@@ -1,9 +1,8 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-
-import './App.css';
-import { Task } from "./Components/Tasks"
-
+// import { Parent } from "./Components/Parent"
+import { Task } from "./Components/Task"
+// import {Counter} from './Components/Counter';
 function App() {
     return ( <
         >
