@@ -22,7 +22,7 @@ const addTodo =()=> {
   return (
     // <div>Task</div>
     <>
-     <h1>Todo List</h1>
+     <h1>WHISH LIST</h1>
 <input placeholder='Something' onChange={handleChange} value={query}/>
 <button onClick={addTodo}>ADD TODO</button>
     {
